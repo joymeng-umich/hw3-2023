@@ -90,7 +90,8 @@ h1, h2, h3{
     /* Set width, margin, and display */
     width: 90%;
     margin: 5%;
-    
+    display: block;
+    border-radius: 5px;
 
 }
 
