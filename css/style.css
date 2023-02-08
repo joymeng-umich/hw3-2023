@@ -28,7 +28,6 @@ nav a{
 a:visited{
     /* Set color */
     color:black;
-
 }
 
 nav a.current{
@@ -55,7 +54,6 @@ h2{
 h3{
     /*Set font size*/
     font-size: 25px;
-
 }
 
 h1, h2, h3{
